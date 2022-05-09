@@ -1,0 +1,1 @@
+[18-May-2020 22:29:24 Asia/Kolkata] PHP Fatal error:  Call to undefined method Main_model::get_allcount_table() in /home2/dishain/public_html/yeldocollege/application/controllers/admin/Home_sliders.php on line 23

@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Disallow:
+Disallow: /assets/
+Disallow: /cgi-bin/
+Disallow: /imall/
+Disallow: /system/
+Disallow: /uploads/
+Disallow: /admin/
